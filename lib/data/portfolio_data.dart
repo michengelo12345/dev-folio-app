@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 import '../models/portfolio_project.dart';
@@ -98,4 +97,3 @@ class PortfolioData {
 
   static String get commitsLabel => commits?.toString() ?? '—';
 }
-
