@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class SkillChip extends StatelessWidget {
   const SkillChip({super.key, required this.label, this.icon});
